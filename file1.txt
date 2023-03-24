@@ -1,1 +1,5 @@
 Updating Master
+Line 1 on branch1
+Line 2 on branch1
+Line 3 on branch1 after first push
+
